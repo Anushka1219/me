@@ -1,0 +1,13 @@
+
+        body {background-image: url(bg.jpg);background-repeat: no-repeat;background-size: cover; }
+          .header{display: flex;background-image: url('OIP.jpg');background-size:400px;justify-content: center; border: cyan;justify-content: center;} 
+          p{font-size: 80px;font-family:'Brush Script MT' ;font-weight: bold;font-style: italic;color:brown;opacity: 1;transform: translate{-50%,-50%};}
+
+          p:hover
+          {
+              
+              opacity : 0;
+              
+          }
+
+        
